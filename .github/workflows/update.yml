@@ -1,0 +1,38 @@
+name: Update university jobs for free
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['update.mjs', 'parser.mjs', 'sources.json', 'package-lock.json', '.github/workflows/update.yml']
+permissions:
+  contents: write
+concurrency:
+  group: update-university-jobs
+  cancel-in-progress: false
+jobs:
+  update:
+    # Fail closed: do not start a billable private-repository runner.
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: node bootstrap.mjs
+      - run: npm test
+      - run: npm run update
+      - name: Publish public job data
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sources.json data.json snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update university recruitment announcements'
+            git push
+          fi
