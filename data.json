@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T06:16:44.365Z",
+  "updatedAt": "2026-11-26T07:49:20.518Z",
   "sourceStatus": {
     "mu": {
-      "checkedAt": "2026-11-26T06:15:57.722Z",
-      "count": 6,
+      "checkedAt": "2026-11-26T07:48:31.606Z",
+      "count": 3,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
     },
     "tu": {
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "count": 7,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
@@ -18,58 +18,56 @@
       "count": 0,
       "error": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:05.991Z"
+      "attemptedAt": "2026-11-26T07:47:55.271Z"
     },
     "cmu": {
       "error": "CERT_HAS_EXPIRED",
-      "attemptedAt": "2026-11-26T06:14:52.233Z"
+      "attemptedAt": "2026-11-26T07:47:42.168Z"
     },
     "psu": {
-      "checkedAt": "2026-11-26T06:15:24.225Z",
+      "checkedAt": "2026-11-26T07:48:05.406Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "ku": {
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "count": 10,
-      "error": "ETIMEDOUT",
-      "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้",
-      "attemptedAt": "2026-11-26T06:15:13.489Z"
+      "error": null,
+      "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
     },
     "uni-6e116dae41": {
-      "checkedAt": "2026-11-26T06:15:22.581Z",
+      "checkedAt": "2026-11-26T07:48:04.046Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-5fb0f223cd": {
-      "checkedAt": "2026-11-26T06:15:23.524Z",
+      "checkedAt": "2026-11-26T07:48:05.126Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-65b0fa43b3": {
-      "checkedAt": "2026-11-26T06:15:22.294Z",
+      "checkedAt": "2026-11-26T07:48:04.011Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-ee80dd5268": {
-      "checkedAt": "2026-11-26T04:27:08.284Z",
+      "checkedAt": "2026-11-26T07:47:59.108Z",
       "count": 0,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:36.195Z"
+      "error": null,
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-b2ae30525e": {
-      "checkedAt": "2026-11-26T06:15:20.717Z",
+      "checkedAt": "2026-11-26T07:48:02.546Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-97dd0fd253": {
-      "checkedAt": "2026-11-26T06:15:37.116Z",
+      "checkedAt": "2026-11-26T07:48:13.581Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -79,10 +77,10 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:55.117Z"
+      "attemptedAt": "2026-11-26T07:47:44.085Z"
     },
     "uni-2b3e07c732": {
-      "attemptedAt": "2026-11-26T06:14:52.277Z",
+      "attemptedAt": "2026-11-26T07:47:41.648Z",
       "error": "ENOTFOUND"
     },
     "uni-8089096eb2": {
@@ -90,16 +88,16 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:55.388Z"
+      "attemptedAt": "2026-11-26T07:47:44.135Z"
     },
     "uni-88991a3422": {
-      "checkedAt": "2026-11-26T06:15:19.718Z",
+      "checkedAt": "2026-11-26T07:48:03.089Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-b0e11e2bfe": {
-      "attemptedAt": "2026-11-26T06:14:52.135Z",
+      "attemptedAt": "2026-11-26T07:47:41.722Z",
       "error": "HTTP 403"
     },
     "uni-4728fcc45d": {
@@ -107,28 +105,28 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:55.846Z"
+      "attemptedAt": "2026-11-26T07:47:44.337Z"
     },
     "uni-bddee7d18d": {
-      "checkedAt": "2026-11-26T06:15:51.219Z",
+      "checkedAt": "2026-11-26T07:48:23.975Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-e53ecc68c1": {
-      "checkedAt": "2026-11-26T06:15:34.295Z",
+      "checkedAt": "2026-11-26T07:48:11.195Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-f1159a4b45": {
-      "checkedAt": "2026-11-26T06:15:18.899Z",
+      "checkedAt": "2026-11-26T07:48:01.685Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a941fc504d": {
-      "checkedAt": "2026-11-26T06:15:38.140Z",
+      "checkedAt": "2026-11-26T07:48:17.646Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -138,10 +136,10 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:56.099Z"
+      "attemptedAt": "2026-11-26T07:47:44.185Z"
     },
     "uni-d448d83f00": {
-      "checkedAt": "2026-11-26T06:15:28.459Z",
+      "checkedAt": "2026-11-26T07:48:07.554Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -151,29 +149,29 @@
       "count": 0,
       "error": "ETIMEDOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:11.474Z"
+      "attemptedAt": "2026-11-26T07:47:55.347Z"
     },
     "uni-2d7c6a5bef": {
       "checkedAt": "2026-11-15T02:26:26.861Z",
       "count": 0,
       "error": "UND_ERR_CONNECT_TIMEOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:05.230Z"
+      "attemptedAt": "2026-11-26T07:47:54.095Z"
     },
     "uni-07eadc3f3c": {
-      "checkedAt": "2026-11-26T06:16:34.015Z",
+      "checkedAt": "2026-11-26T07:49:01.204Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-91db5a6bf1": {
-      "checkedAt": "2026-11-26T06:15:14.679Z",
+      "checkedAt": "2026-11-26T07:47:59.829Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-977e24029b": {
-      "checkedAt": "2026-11-26T06:15:42.105Z",
+      "checkedAt": "2026-11-26T07:48:16.430Z",
       "count": 1,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
@@ -181,51 +179,52 @@
     "uni-5dcb9dd20b": {
       "checkedAt": "2026-11-26T06:15:20.909Z",
       "count": 0,
-      "error": null,
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
+      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
+      "attemptedAt": "2026-11-26T07:48:12.074Z"
     },
     "uni-ded3d06907": {
-      "checkedAt": "2026-11-26T06:16:21.294Z",
+      "checkedAt": "2026-11-26T07:48:54.612Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-d68d434eb4": {
-      "checkedAt": "2026-11-26T06:16:09.256Z",
+      "checkedAt": "2026-11-26T07:48:43.744Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-3e9b3e30b8": {
-      "checkedAt": "2026-11-26T06:15:06.545Z",
+      "checkedAt": "2026-11-26T07:47:59.047Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-0132ce08ff": {
-      "attemptedAt": "2026-11-26T06:14:52.387Z",
+      "attemptedAt": "2026-11-26T07:47:41.908Z",
       "error": "HTTP 403"
     },
     "uni-eb17f63d99": {
-      "checkedAt": "2026-11-26T06:15:47.920Z",
+      "checkedAt": "2026-11-26T07:48:19.753Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a572a6953c": {
-      "checkedAt": "2026-11-26T06:16:15.036Z",
+      "checkedAt": "2026-11-26T07:48:46.182Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a173eff89d": {
-      "checkedAt": "2026-11-26T06:16:30.707Z",
+      "checkedAt": "2026-11-26T07:49:01.476Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-0725423fa4": {
-      "checkedAt": "2026-11-26T06:16:25.642Z",
+      "checkedAt": "2026-11-26T07:48:54.673Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -235,44 +234,44 @@
       "count": 0,
       "error": "UND_ERR_CONNECT_TIMEOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:05.229Z"
+      "attemptedAt": "2026-11-26T07:47:54.094Z"
     },
     "uni-bee9f02096": {
-      "checkedAt": "2026-11-26T06:15:29.850Z",
+      "checkedAt": "2026-11-26T07:48:07.805Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-247f374984": {
-      "checkedAt": "2026-11-26T06:15:21.190Z",
+      "checkedAt": "2026-11-26T07:48:03.174Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-1a1df47707": {
-      "checkedAt": "2026-11-26T06:16:14.841Z",
+      "checkedAt": "2026-11-26T07:48:44.998Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-aec9ad898c": {
-      "checkedAt": "2026-11-26T06:15:29.927Z",
+      "checkedAt": "2026-11-26T07:48:10.884Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-d32cf5a1e3": {
-      "attemptedAt": "2026-11-26T06:14:52.384Z",
+      "attemptedAt": "2026-11-26T07:47:41.747Z",
       "error": "HTTP 403"
     },
     "uni-23fc75de92": {
-      "checkedAt": "2026-11-26T06:16:01.956Z",
+      "checkedAt": "2026-11-26T07:48:35.535Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-8f3a76006e": {
-      "checkedAt": "2026-11-26T06:15:51.858Z",
+      "checkedAt": "2026-11-26T07:48:20.358Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -282,39 +281,39 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:57.319Z"
+      "attemptedAt": "2026-11-26T07:47:44.632Z"
     },
     "uni-b583198e4b": {
       "checkedAt": "2026-11-15T02:26:37.957Z",
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:57.580Z"
+      "attemptedAt": "2026-11-26T07:47:44.852Z"
     },
     "uni-ada4646731": {
-      "attemptedAt": "2026-11-26T06:14:54.321Z",
+      "attemptedAt": "2026-11-26T07:47:43.678Z",
       "error": "HTTP 502"
     },
     "uni-ab4ee759ce": {
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "count": 15,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
     },
     "uni-c15e36480a": {
-      "checkedAt": "2026-11-26T06:15:41.196Z",
+      "checkedAt": "2026-11-26T07:48:16.086Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-c3e2fb2348": {
-      "checkedAt": "2026-11-26T06:15:17.179Z",
+      "checkedAt": "2026-11-26T07:48:00.751Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-f2f49ec6a4": {
-      "checkedAt": "2026-11-26T06:16:16.389Z",
+      "checkedAt": "2026-11-26T07:48:49.861Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -322,31 +321,32 @@
     "uni-dba4ddce2e": {
       "checkedAt": "2026-11-26T06:16:08.950Z",
       "count": 0,
-      "error": null,
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
+      "error": "The operation was aborted due to timeout",
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
+      "attemptedAt": "2026-11-26T07:48:51.249Z"
     },
     "uni-c87bcb4fcc": {
       "checkedAt": "2026-11-15T02:26:42.615Z",
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:57.845Z"
+      "attemptedAt": "2026-11-26T07:47:44.874Z"
     },
     "uni-3ad55091e6": {
       "checkedAt": "2026-11-15T02:26:43.584Z",
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:57.860Z"
+      "attemptedAt": "2026-11-26T07:47:45.073Z"
     },
     "uni-b6ce9ffb1c": {
-      "checkedAt": "2026-11-26T06:15:23.179Z",
+      "checkedAt": "2026-11-26T07:48:04.347Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-bcc55cfbb5": {
-      "checkedAt": "2026-11-26T06:16:07.447Z",
+      "checkedAt": "2026-11-26T07:48:34.722Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -354,62 +354,62 @@
     "uni-739e7c7554": {
       "checkedAt": "2026-11-26T06:15:30.488Z",
       "count": 0,
-      "error": null,
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
+      "error": "UND_ERR_SOCKET",
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
+      "attemptedAt": "2026-11-26T07:48:09.407Z"
     },
     "uni-05b55cfa8b": {
-      "checkedAt": "2026-11-26T06:16:07.647Z",
+      "checkedAt": "2026-11-26T07:48:39.632Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a13ec4e050": {
-      "checkedAt": "2026-11-26T06:16:08.885Z",
+      "checkedAt": "2026-11-26T07:48:45.241Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-f76b405af5": {
-      "attemptedAt": "2026-11-26T06:14:52.588Z",
+      "attemptedAt": "2026-11-26T07:47:42.085Z",
       "error": "ENOTFOUND"
     },
     "uni-ce07d885cf": {
-      "checkedAt": "2026-11-26T06:15:22.207Z",
+      "checkedAt": "2026-11-26T07:48:03.912Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-677d80837e": {
-      "checkedAt": "2026-11-26T06:15:49.420Z",
+      "checkedAt": "2026-11-26T07:48:18.896Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-3f9ebfc579": {
-      "checkedAt": "2026-11-26T03:14:56.569Z",
+      "checkedAt": "2026-11-26T07:47:59.301Z",
       "count": 0,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:18.719Z"
+      "error": null,
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-151e4e31b1": {
-      "checkedAt": "2026-11-26T06:16:15.606Z",
+      "checkedAt": "2026-11-26T07:48:47.394Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-e3abe9698e": {
-      "attemptedAt": "2026-11-26T06:14:53.763Z",
+      "attemptedAt": "2026-11-26T07:47:42.992Z",
       "error": "UNABLE_TO_VERIFY_LEAF_SIGNATURE"
     },
     "uni-a913541431": {
-      "checkedAt": "2026-11-26T06:15:21.917Z",
+      "checkedAt": "2026-11-26T07:48:03.625Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-e3950c4d47": {
-      "checkedAt": "2026-11-26T06:15:54.442Z",
+      "checkedAt": "2026-11-26T07:48:27.713Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -417,43 +417,41 @@
     "uni-39910e6ae8": {
       "checkedAt": "2026-11-15T02:27:09.761Z",
       "count": 0,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
+      "error": "EAI_AGAIN",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:07.724Z"
+      "attemptedAt": "2026-11-26T07:47:54.864Z"
     },
     "uni-1a48df3099": {
       "checkedAt": "2026-11-15T02:27:10.599Z",
       "count": 0,
       "error": "ETIMEDOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:58.360Z"
+      "attemptedAt": "2026-11-26T07:47:46.181Z"
     },
     "uni-eabdb330fd": {
-      "checkedAt": "2026-11-26T03:15:04.173Z",
+      "checkedAt": "2026-11-26T07:48:02.257Z",
       "count": 0,
-      "error": "UND_ERR_CONNECT_TIMEOUT",
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:21.217Z"
+      "error": null,
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-8d993c15cd": {
-      "checkedAt": "2026-11-26T06:16:29.023Z",
+      "checkedAt": "2026-11-26T07:48:59.655Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-6617239d29": {
-      "checkedAt": "2026-11-26T04:26:54.090Z",
+      "checkedAt": "2026-11-26T07:48:00.693Z",
       "count": 0,
-      "error": "ETIMEDOUT",
-      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:14.255Z"
+      "error": null,
+      "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-56ff321590": {
-      "attemptedAt": "2026-11-26T06:14:53.474Z",
+      "attemptedAt": "2026-11-26T07:47:42.643Z",
       "error": "HTTP 403"
     },
     "uni-259c605f7a": {
-      "checkedAt": "2026-11-26T06:15:27.970Z",
+      "checkedAt": "2026-11-26T07:48:08.843Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -463,28 +461,28 @@
       "count": 1,
       "error": "UND_ERR_CONNECT_TIMEOUT",
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้",
-      "attemptedAt": "2026-11-26T06:15:08.224Z"
+      "attemptedAt": "2026-11-26T07:47:55.093Z"
     },
     "uni-bbecac510f": {
-      "checkedAt": "2026-11-26T06:15:57.282Z",
+      "checkedAt": "2026-11-26T07:48:31.577Z",
       "count": 1,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
     },
     "uni-00a23eddf5": {
-      "checkedAt": "2026-11-26T06:15:34.298Z",
+      "checkedAt": "2026-11-26T07:48:11.086Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-792627a29b": {
-      "checkedAt": "2026-11-26T06:16:35.831Z",
+      "checkedAt": "2026-11-26T07:49:09.722Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-d1b69b0011": {
-      "checkedAt": "2026-11-26T06:15:38.209Z",
+      "checkedAt": "2026-11-26T07:48:14.125Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -494,10 +492,10 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:58.873Z"
+      "attemptedAt": "2026-11-26T07:47:46.263Z"
     },
     "uni-d47f3ff5a9": {
-      "checkedAt": "2026-11-26T06:15:42.694Z",
+      "checkedAt": "2026-11-26T07:48:16.552Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -507,36 +505,36 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:14:59.151Z"
+      "attemptedAt": "2026-11-26T07:47:46.323Z"
     },
     "uni-b4a72ba15a": {
-      "attemptedAt": "2026-11-26T06:14:54.700Z",
-      "error": "ETIMEDOUT"
+      "attemptedAt": "2026-11-26T07:47:55.285Z",
+      "error": "fetch failed"
     },
     "uni-0e8e779ba5": {
-      "checkedAt": "2026-11-26T06:16:33.247Z",
+      "checkedAt": "2026-11-26T07:49:03.796Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a901af23d4": {
-      "checkedAt": "2026-11-26T06:15:25.154Z",
+      "checkedAt": "2026-11-26T07:48:05.799Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-750275f7a6": {
-      "checkedAt": "2026-11-26T06:15:51.963Z",
+      "checkedAt": "2026-11-26T07:48:27.145Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-e23c2c7d57": {
-      "attemptedAt": "2026-11-26T06:14:54.259Z",
-      "error": "ETIMEDOUT"
+      "attemptedAt": "2026-11-26T07:47:43.920Z",
+      "error": "ERR_TLS_CERT_ALTNAME_INVALID"
     },
     "uni-323b3349a0": {
-      "checkedAt": "2026-11-26T06:15:58.234Z",
+      "checkedAt": "2026-11-26T07:48:33.949Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -546,10 +544,10 @@
       "count": 0,
       "error": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:02.267Z"
+      "attemptedAt": "2026-11-26T07:47:47.001Z"
     },
     "uni-10aa8cb350": {
-      "checkedAt": "2026-11-26T06:15:43.012Z",
+      "checkedAt": "2026-11-26T07:48:17.223Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -559,10 +557,10 @@
       "count": 0,
       "error": "ETIMEDOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:12.261Z"
+      "attemptedAt": "2026-11-26T07:47:57.564Z"
     },
     "uni-38053689e7": {
-      "checkedAt": "2026-11-26T06:16:44.365Z",
+      "checkedAt": "2026-11-26T07:49:20.517Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -572,74 +570,74 @@
       "count": 0,
       "error": "ETIMEDOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:06.802Z"
+      "attemptedAt": "2026-11-26T07:47:56.118Z"
     },
     "uni-2e972fa830": {
-      "checkedAt": "2026-11-26T06:15:43.071Z",
+      "checkedAt": "2026-11-26T07:48:40.830Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-01cc1024bf": {
-      "checkedAt": "2026-11-26T06:15:17.830Z",
+      "checkedAt": "2026-11-26T07:48:01.605Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-da85b28790": {
-      "checkedAt": "2026-11-26T06:15:16.078Z",
+      "checkedAt": "2026-11-26T07:48:00.773Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-b8ab07cc85": {
-      "checkedAt": "2026-11-26T06:16:01.194Z",
+      "checkedAt": "2026-11-26T07:48:36.246Z",
       "count": 2,
       "error": null,
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้"
     },
     "uni-bc06da0a84": {
-      "checkedAt": "2026-11-26T06:15:52.513Z",
+      "checkedAt": "2026-11-26T07:48:32.058Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-6c0e12dbd7": {
-      "checkedAt": "2026-11-26T06:15:24.066Z",
+      "checkedAt": "2026-11-26T07:48:05.396Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-15e4c1fce9": {
-      "checkedAt": "2026-11-26T06:15:37.056Z",
+      "checkedAt": "2026-11-26T07:48:13.763Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-dbea3f4cc2": {
-      "checkedAt": "2026-11-26T06:15:20.105Z",
+      "checkedAt": "2026-11-26T07:48:02.749Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-b620e45653": {
-      "checkedAt": "2026-11-26T06:15:26.076Z",
+      "checkedAt": "2026-11-26T07:48:06.699Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-427ac84880": {
-      "attemptedAt": "2026-11-26T06:14:54.569Z",
+      "attemptedAt": "2026-11-26T07:47:43.514Z",
       "error": "HTTP 403"
     },
     "uni-7b33bfe63c": {
-      "checkedAt": "2026-11-26T06:15:32.097Z",
+      "checkedAt": "2026-11-26T07:48:09.568Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-0c40496376": {
-      "checkedAt": "2026-11-26T06:15:34.805Z",
+      "checkedAt": "2026-11-26T07:48:12.644Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -649,40 +647,40 @@
       "count": 0,
       "error": "ECONNRESET",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:02.721Z"
+      "attemptedAt": "2026-11-26T07:47:47.727Z"
     },
     "uni-0e72ccc894": {
-      "checkedAt": "2026-11-26T06:15:56.297Z",
+      "checkedAt": "2026-11-26T07:48:28.234Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-a170a5e49d": {
-      "checkedAt": "2026-11-26T06:15:19.690Z",
+      "checkedAt": "2026-11-26T07:48:01.895Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-90fab7802a": {
-      "checkedAt": "2026-11-26T06:15:35.966Z",
+      "checkedAt": "2026-11-26T07:48:12.752Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-342b9ccad6": {
-      "checkedAt": "2026-11-26T06:15:29.730Z",
+      "checkedAt": "2026-11-26T07:48:08.083Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-eb379dd6f5": {
-      "checkedAt": "2026-11-26T06:15:16.356Z",
+      "checkedAt": "2026-11-26T07:48:01.721Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-df90e1724b": {
-      "attemptedAt": "2026-11-26T06:14:53.474Z",
+      "attemptedAt": "2026-11-26T07:47:42.643Z",
       "error": "ยังไม่มีเว็บไซต์ต้นทางที่ยืนยันได้"
     },
     "uni-785057c257": {
@@ -690,16 +688,16 @@
       "count": 0,
       "error": "UND_ERR_CONNECT_TIMEOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:12.721Z"
+      "attemptedAt": "2026-11-26T07:47:58.088Z"
     },
     "uni-7ddcb6f21f": {
-      "checkedAt": "2026-11-26T06:15:51.107Z",
+      "checkedAt": "2026-11-26T07:48:30.370Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-fac8046532": {
-      "checkedAt": "2026-11-26T06:15:59.711Z",
+      "checkedAt": "2026-11-26T07:48:40.601Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -709,10 +707,10 @@
       "count": 0,
       "error": "ETIMEDOUT",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:10.888Z"
+      "attemptedAt": "2026-11-26T07:47:56.528Z"
     },
     "uni-3f6d08e494": {
-      "checkedAt": "2026-11-26T06:15:32.380Z",
+      "checkedAt": "2026-11-26T07:48:10.945Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -722,30 +720,30 @@
       "count": 0,
       "error": "HTTP 403",
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง",
-      "attemptedAt": "2026-11-26T06:15:03.127Z"
+      "attemptedAt": "2026-11-26T07:47:54.188Z"
     },
     "uni-e8900442ff": {
-      "checkedAt": "2026-11-26T06:15:31.441Z",
+      "checkedAt": "2026-11-26T07:48:09.405Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-d4f3f6c69c": {
-      "checkedAt": "2026-11-26T06:16:04.854Z",
+      "checkedAt": "2026-11-26T07:48:36.563Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-bb0f31210f": {
-      "attemptedAt": "2026-11-26T06:14:54.705Z",
+      "attemptedAt": "2026-11-26T07:47:43.523Z",
       "error": "ENOTFOUND"
     },
     "uni-ae40b6c034": {
-      "attemptedAt": "2026-11-26T06:14:54.850Z",
+      "attemptedAt": "2026-11-26T07:47:43.615Z",
       "error": "HTTP 403"
     },
     "uni-5859f53fe4": {
-      "checkedAt": "2026-11-26T06:15:39.914Z",
+      "checkedAt": "2026-11-26T07:48:14.549Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -755,26 +753,26 @@
       "count": 3,
       "error": "UND_ERR_CONNECT_TIMEOUT",
       "note": "ตรวจพบประกาศที่มีวันปิดรับและประเภทการจ้างยืนยันได้",
-      "attemptedAt": "2026-11-26T06:15:13.225Z"
+      "attemptedAt": "2026-11-26T07:48:04.584Z"
     },
     "uni-09814f9005": {
-      "attemptedAt": "2026-11-26T06:14:57.589Z",
+      "attemptedAt": "2026-11-26T07:47:43.884Z",
       "error": "HTTP 403"
     },
     "uni-d63bb5e4e4": {
-      "checkedAt": "2026-11-26T06:15:33.129Z",
+      "checkedAt": "2026-11-26T07:48:10.961Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-3db9c62da0": {
-      "checkedAt": "2026-11-26T06:15:25.535Z",
+      "checkedAt": "2026-11-26T07:48:06.635Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
     },
     "uni-fa845fb589": {
-      "checkedAt": "2026-11-26T06:15:26.682Z",
+      "checkedAt": "2026-11-26T07:48:06.916Z",
       "count": 0,
       "error": null,
       "note": "ยังไม่พบประกาศที่ระบบยืนยันได้ กรุณาเปิดเว็บต้นทาง"
@@ -791,7 +789,7 @@
       "deadline": "2026-11-26",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA1NQ==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "272159066e20faaf5592eab7b398cd77aa4748e65a2f9b756601f20d51e57364"
@@ -806,7 +804,7 @@
       "deadline": "2026-11-26",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzAwNg==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "d925f5392bb76bff8fe407addc57a46bc3122f970e61d9df9d36e67f7b3a58b3"
@@ -821,7 +819,7 @@
       "deadline": "2026-11-26",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzAxMA==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "9368a835c4cfe092e04c944ef982103877b19c3fce342a5bb75e6469638e6831"
@@ -836,7 +834,7 @@
       "deadline": "2026-11-26",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzAyMw==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "854dfe4aad483d4514b5409645079ff6cc652c6a74f63e7b8574dea607422297"
@@ -851,7 +849,7 @@
       "deadline": "2026-11-26",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzAxOQ==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "030b64117a822c329f1a7adcf3446a38426f42a3b419411b4742e2e719862074"
@@ -881,10 +879,10 @@
       "deadline": "2026-11-26",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=55",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.259Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
-      "fingerprint": "695efcf6837999e4bb043e4a399b28481090e8a5b1db6b85bff1eaf7e85f88b6"
+      "fingerprint": "5188a94feb1a922046dd72c9c0e9a8f608f776b6173c9de2944b0714ed0a50b0"
     },
     {
       "id": "mu-4fcbe499a1201ff8d752",
@@ -911,7 +909,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-11-05-16-24-26-recruitment_254.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-15T02:27:50.817Z",
       "employment": "university_employee",
       "fingerprint": "2ce4c185dceb219ad24035504bd5c9d8502e383327d03d5f6ff926ec0f631c5f"
@@ -926,7 +924,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-10-15-11-30-09-recruitment_246.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-15T02:27:50.817Z",
       "employment": "university_employee",
       "fingerprint": "a13d7179058dc3370b022a248598742007f2070acee7cd0d504ba16bbe48a27d"
@@ -941,7 +939,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-10-15-11-28-46-recruitment_245.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-15T02:27:50.817Z",
       "employment": "university_employee",
       "fingerprint": "d5d31be5b28e057ab90a9991fc3be00bc3014bd555a660f84c6c2fef4bca733f"
@@ -956,7 +954,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA2MQ==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "d6dca3a063723c78514dcfd1415441749bd7e51e24a7c7371c04dc59ae29cb17"
@@ -971,7 +969,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA1Ng==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "041b1cd12b16b9ad34a3cf1e0730d713490f6c3d98c31c7e384336da5cf03a55"
@@ -986,7 +984,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA1NA==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "54a38bcdeed90369475a890d1bf780e691c42d42acd7e4be276c63c10ad116fb"
@@ -1001,7 +999,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA1Mw==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "d2b894aba055755c8beeaca64de13beb94d5694965abd27c36a93fe7365d136c"
@@ -1016,7 +1014,7 @@
       "deadline": "2026-11-30",
       "apply_url": "https://personnel.ssru.ac.th/th/announcement/category/5/th/announcement/view/newsjob0611692001",
       "source_url": "https://personnel.ssru.ac.th/th/announcement/category/5/",
-      "checkedAt": "2026-11-26T06:16:01.194Z",
+      "checkedAt": "2026-11-26T07:48:36.246Z",
       "firstSeen": "2026-11-15T02:27:37.244Z",
       "employment": "university_employee",
       "fingerprint": "f2eb37abb4e2e77a618aea784ee19a06f5b3479ea054b5159489d884bdd9bba3"
@@ -1121,7 +1119,7 @@
       "deadline": "2026-12-01",
       "apply_url": "https://www.bru.ac.th/category/job-news/",
       "source_url": "https://www.bru.ac.th/category/job-news/",
-      "checkedAt": "2026-11-26T06:15:56.271Z",
+      "checkedAt": "2026-11-26T07:48:30.362Z",
       "firstSeen": "2026-11-25T07:44:51.217Z",
       "employment": "university_employee",
       "fingerprint": "eb0cc232f682d0968912bb0c277a8aa9a07243dfff11863056e12e6f5e44757d"
@@ -1136,7 +1134,7 @@
       "deadline": "2026-12-02",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=58",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
       "fingerprint": "1016eed3601365ea8b78be74f3818029157187a117250ff826f15f76cde5e7cf"
@@ -1151,7 +1149,7 @@
       "deadline": "2026-12-03",
       "apply_url": "https://personnel.ssru.ac.th/th/announcement/category/5/th/announcement/view/newsjob1011692001",
       "source_url": "https://personnel.ssru.ac.th/th/announcement/category/5/",
-      "checkedAt": "2026-11-26T06:16:00.753Z",
+      "checkedAt": "2026-11-26T07:48:35.754Z",
       "firstSeen": "2026-11-15T02:27:35.689Z",
       "employment": "university_employee",
       "fingerprint": "963ba21e5d16dec1cf4793c50323764ba812aac0da4687a18f9d44b722541b7d"
@@ -1196,7 +1194,7 @@
       "deadline": "2026-12-07",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA1Nw==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "980b2362d270bcfe3ed909da41a9262aeb43223d7cb12f99f3826f1fe206fc44"
@@ -1256,7 +1254,7 @@
       "deadline": "2026-12-08",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=62",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
       "fingerprint": "d28442cad3231cdd5b5005f8fe7048128acf13404108777d4dc777f29b39bb36"
@@ -1271,7 +1269,7 @@
       "deadline": "2026-12-08",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-11-25-13-29-55-recruitment_258.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-25T07:44:28.161Z",
       "employment": "university_employee",
       "fingerprint": "4613ef72be38fdefda9a83915b1e10f42cb59db46c133070f7032faef0858fda"
@@ -1286,7 +1284,7 @@
       "deadline": "2026-12-09",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA2Mg==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "a58cc0edb266dd7180e5950ffab8ad65dae69e61829a8472dce4da630829c77d"
@@ -1376,7 +1374,7 @@
       "deadline": "2026-12-15",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA2Mw==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-18T09:22:28.995Z",
       "employment": "university_employee",
       "fingerprint": "a1c896375cbbba607d14cdd12bd54549355cd519278952e733f75f40ab0aa592"
@@ -1391,10 +1389,10 @@
       "deadline": "2026-12-15",
       "apply_url": "https://muhr.mahidol.ac.th/E-Recruitment/user/job/view.php?id=14809",
       "source_url": "https://muhr.mahidol.ac.th/E-Recruitment/index.php",
-      "checkedAt": "2026-11-26T06:15:56.249Z",
+      "checkedAt": "2026-11-26T07:48:30.608Z",
       "firstSeen": "2026-11-26T03:15:35.265Z",
       "employment": "university_employee",
-      "fingerprint": "f8bca70e984cdb481a02a44923f9ab25ff5accd87a221a6586a6378ab2eec7bc"
+      "fingerprint": "ada865545b85824c05e6a3650d8b34cc6af3811116c997a7d3af9912e9ddac46"
     },
     {
       "id": "mu-ec90d0da78558c7a7942",
@@ -1421,7 +1419,7 @@
       "deadline": "2026-12-21",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA0OQ==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-24T09:29:43.347Z",
       "employment": "university_employee",
       "fingerprint": "ff49f85ebb46dd471c7dd687a59414d232b089c02e6ce7413989a3eb5571e3be"
@@ -1436,7 +1434,7 @@
       "deadline": "2026-12-22",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzA0MQ==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-24T09:29:43.347Z",
       "employment": "university_employee",
       "fingerprint": "f71c4f074505ccb36f4d919b54643d4cab7d046a7df4d5ee7778482c09cfe788"
@@ -1451,7 +1449,7 @@
       "deadline": "2026-12-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-10-15-11-26-27-recruitment_244.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-15T02:27:50.817Z",
       "employment": "university_employee",
       "fingerprint": "798faba2024f40a0a4d1d54ffd4ccd20fdf431d88d3c3a822949c8973acc9aa7"
@@ -1466,7 +1464,7 @@
       "deadline": "2026-12-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-10-27-16-11-36-recruitment_250.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-15T02:27:50.817Z",
       "employment": "university_employee",
       "fingerprint": "0bdb885f95c7f84a50fdf406a1fa5f175c2a87034c096add540854aff37f73a9"
@@ -1481,7 +1479,7 @@
       "deadline": "2026-12-30",
       "apply_url": "https://hrmd.person.tu.ac.th/hrmd/pdf/recruit/inTU/other/2026-11-25-13-26-34-recruitment_257.pdf",
       "source_url": "https://hrmd.person.tu.ac.th/hrmd/inform.php?vsite=recruitment2",
-      "checkedAt": "2026-11-26T06:15:24.808Z",
+      "checkedAt": "2026-11-26T07:48:05.851Z",
       "firstSeen": "2026-11-25T07:44:28.161Z",
       "employment": "university_employee",
       "fingerprint": "4cfa5250cc6855365888db3be03f8450bee96b9e423ef0353561d3a0573c30af"
@@ -1496,10 +1494,10 @@
       "deadline": "2026-12-31",
       "apply_url": "https://muhr.mahidol.ac.th/E-Recruitment/user/job/view.php?id=14804",
       "source_url": "https://muhr.mahidol.ac.th/E-Recruitment/index.php",
-      "checkedAt": "2026-11-26T06:15:56.571Z",
+      "checkedAt": "2026-11-26T07:48:31.382Z",
       "firstSeen": "2026-11-25T07:44:57.354Z",
       "employment": "university_employee",
-      "fingerprint": "2959790befef2015e34991203b7464287f95292b4ccb0d117e2bd1d6c3dabc83"
+      "fingerprint": "63d5ed85ca8d3cc9e66db8aa0590a023609fe7406fe61f8cb562c8974b882f12"
     },
     {
       "id": "uni-977e24029b-072bae2f2c3ab3ae3189",
@@ -1511,7 +1509,7 @@
       "deadline": "2026-12-31",
       "apply_url": "https://personal.rmutl.ac.th/news/34565-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB",
       "source_url": "https://personal.rmutl.ac.th/",
-      "checkedAt": "2026-11-26T06:15:41.361Z",
+      "checkedAt": "2026-11-26T07:48:15.780Z",
       "firstSeen": "2026-11-25T09:33:27.336Z",
       "employment": "civil_servant",
       "fingerprint": "f2f06877c55db3055af9daaadd19665cc1621de0149b85e8778c368be4ef7b43"
@@ -1541,7 +1539,7 @@
       "deadline": "2027-01-07",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=68",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-25T12:24:10.252Z",
       "employment": "university_employee",
       "fingerprint": "f45db3fe4ba1396b34e90936dcd3b62574fddb7a669d4d6295d40ce5370ac7c2"
@@ -1556,7 +1554,7 @@
       "deadline": "2027-01-07",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=67",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-25T12:24:10.252Z",
       "employment": "university_employee",
       "fingerprint": "20cac3c7bdbdfed0451bb445d958311a376e9b1dee424fd7f14fe2b99c9e6980"
@@ -1586,7 +1584,7 @@
       "deadline": "2027-01-12",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=69",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-25T12:24:10.252Z",
       "employment": "university_employee",
       "fingerprint": "93b014be691f5c9e9029c9569fed027436711e4431e4109c7aa4edbfd9b15ab9"
@@ -1601,7 +1599,7 @@
       "deadline": "2027-01-13",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=63",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
       "fingerprint": "a251aff3d8c6d82f7d70b232292d5af27b798a2c131994a40296bb9a1b655e6e"
@@ -1616,7 +1614,7 @@
       "deadline": "2027-01-13",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=60",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
       "fingerprint": "b721a61d7e3b43c8603619995380ffa659d4500ad1f58052a0e2911f1dcd4e68"
@@ -1631,7 +1629,7 @@
       "deadline": "2027-01-13",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=59",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-18T03:06:55.263Z",
       "employment": "university_employee",
       "fingerprint": "82f9e541f5262f7d1d007fa02ec7ece080d8285c8badfad4b002d7068b41189b"
@@ -1646,7 +1644,7 @@
       "deadline": "2027-01-20",
       "apply_url": "https://office.eng.ku.ac.th/hr/public_apply.php?position_id=66",
       "source_url": "https://office.eng.ku.ac.th/hr/public_jobs.php",
-      "checkedAt": "2026-11-26T04:26:50.260Z",
+      "checkedAt": "2026-11-26T07:47:57.524Z",
       "firstSeen": "2026-11-25T07:44:16.772Z",
       "employment": "university_employee",
       "fingerprint": "2c7c5e6004c0d3e2d0d587b028f6350d0ae4dd9ad12aa5c0d95786d7e6c659ca"
@@ -1661,7 +1659,7 @@
       "deadline": "2027-01-29",
       "apply_url": "https://smarthr.up.ac.th/recruit/#!/positiondetail/MzAzNg==",
       "source_url": "https://personnel.up.ac.th/default",
-      "checkedAt": "2026-11-26T06:16:20.165Z",
+      "checkedAt": "2026-11-26T07:48:53.935Z",
       "firstSeen": "2026-11-15T02:26:39.601Z",
       "employment": "university_employee",
       "fingerprint": "e1d0da86df94f5d40ac8d6275351341d2a4ceee3f8e9dd00e233acdf948fbe7a"
@@ -1676,10 +1674,10 @@
       "deadline": "2027-02-28",
       "apply_url": "https://muhr.mahidol.ac.th/E-Recruitment/user/job/view.php?id=14807",
       "source_url": "https://muhr.mahidol.ac.th/E-Recruitment/index.php",
-      "checkedAt": "2026-11-26T06:15:56.249Z",
+      "checkedAt": "2026-11-26T07:48:30.870Z",
       "firstSeen": "2026-11-25T11:17:00.761Z",
       "employment": "university_employee",
-      "fingerprint": "d7c5748a7b5ef1fbfbe3beeb3acf155737403e4dfdce332804783893760a195c"
+      "fingerprint": "febe2fc7bdebfd0821e91a31600745f09072df6fc6523d74aa13dd08d85c24cd"
     },
     {
       "id": "uni-eb17f63d99-7a8bcddada9b6816d0cc",
@@ -1697,15 +1695,15 @@
       "fingerprint": "357df8962440eb8243e55443663e7ca5524b85d1a718b25525c0a4c9deef330b"
     }
   ],
-  "lastAttempt": "2026-11-26T06:14:51.729Z",
+  "lastAttempt": "2026-11-26T07:47:41.593Z",
   "updateMode": "github-actions-free",
   "requiresLocalComputer": false,
   "cloudRun": {
-    "startedAt": "2026-11-26T06:14:51.729Z",
-    "completedAt": "2026-11-26T06:16:44.365Z",
+    "startedAt": "2026-11-26T07:47:41.593Z",
+    "completedAt": "2026-11-26T07:49:20.518Z",
     "checked": 130,
     "total": 130,
-    "readable": 84,
-    "runUrl": "https://github.com/KsisZz/ha-ma-ngan-mahalai-woei/actions/runs/45766853337"
+    "readable": 86,
+    "runUrl": "https://github.com/KsisZz/ha-ma-ngan-mahalai-woei/actions/runs/45777939845"
   }
 }
